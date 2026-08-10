@@ -18,7 +18,7 @@ Production-grade multi-agent AI research platform using **LangGraph** orchestrat
 
 **🤖 [Legacy Code Modernization Copilot](https://github.com/shreerachanaa1010-spec/legacy-modernization-copilot.git)** — *in progress*
 A Roslyn-based static analysis + LLM-assisted refactoring tool for safely modernizing legacy C# codebases. Five-stage pipeline — **Analyze → Suggest → Generate Tests → Verify → Review** — pairing compiler-level static analysis with AI-generated refactor suggestions and auto-generated regression tests. Built entirely on free-tier infra (Gemini API, FAISS, Render, Vercel, GitHub Actions).
-`C# · Roslyn · Gemini API · FAISS · GitHub Actions`
+`C# · Roslyn · Gemini API · FAISS · GitHub Actions · React`
 
 ### 💼 Experience
 
