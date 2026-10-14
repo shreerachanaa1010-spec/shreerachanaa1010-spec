@@ -131,13 +131,6 @@ Natural Language to Pandas Code Generation using QLoRA Fine-Tuning.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreerachanaa1010-spec&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreerachanaa1010-spec&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
